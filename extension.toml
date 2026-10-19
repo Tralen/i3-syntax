@@ -9,5 +9,5 @@ languages = ["languages/i3"]
 
 [grammars.swayconfig]
 repository = "https://github.com/Tralen/i3-syntax"
-rev = "4f8ba778febf3d46d0bb79a55d0511d7cf8cf4d9"
+rev = "6fd4ff97c30410c9bfb7dcc81ed4300604b31620"
 path = "grammars/tree-sitter-swayconfig"
