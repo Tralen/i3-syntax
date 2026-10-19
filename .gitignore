@@ -1,0 +1,4 @@
+/grammars/swayconfig/
+/grammars/*.wasm
+/target/
+/extension.wasm

@@ -1,0 +1,5 @@
+name = "i3"
+grammar = "swayconfig"
+path_suffixes = ["i3"]
+first_line_pattern = "^# i3 config file"
+line_comments = ["# "]
